@@ -36,6 +36,10 @@
    - This is a terminal-based word processor much like the old-school ones you might use in a DOS machine in the 80s/90s.
    - Advantages: Uses less resources than a graphical program, so better for low-powered devices like the Raspberry Pi Zero.
    - Disadvantages: It does not work well with Windows (but who is going to build a writerDeck with Windows?). Some people may not be comfortable working in a terminal.
+- [writui](https://writui.com/)
+   - Free, open-source terminal app for writing Markdown in a password-encrypted local vault.
+   - Advantages: Focused writing column, keyboard and mouse controls, automatic saving, named versions, and Markdown export. Prebuilt Linux x86_64/ARM64 and macOS binaries.
+   - Disadvantages: Not tested on e-ink or dedicated writerDeck hardware; no built-in synchronization. Windows requires building from source.
 - [FocusWriter](https://gottcode.org/focuswriter/)
    - This is a free distraction-free writing program available for Linux and Windows.
 - [WordPerfect for Unix](https://github.com/taviso/wpunix)
